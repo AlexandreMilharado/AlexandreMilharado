@@ -10,6 +10,10 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexandreMilharado&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
-View Count: [![](https://profile-counter.glitch.me/AlexandreMilharado/count.svg)](https://profile-counter.glitch.me/AlexandreMilharado/)
+<div align="center">
+  View Count: <a href="https://profile-counter.glitch.me/AlexandreMilharado/">
+    <img src="https://profile-counter.glitch.me/AlexandreMilharado/count.svg" alt="View Count">
+  </a>
+</div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
