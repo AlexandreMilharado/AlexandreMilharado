@@ -10,13 +10,14 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexandreMilharado&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
-<div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
-  <div>
-    View Count: 
-    <a href="https://profile-counter.glitch.me/AlexandreMilharado/">
-      <img src="https://profile-counter.glitch.me/AlexandreMilharado/count.svg" alt="View Count">
-    </a>
-  </div>
+<div align="center">
+
+  <h3>👀 View Count</h3>
+
+  <a href="https://profile-counter.glitch.me/AlexandreMilharado/">
+    <img src="https://profile-counter.glitch.me/AlexandreMilharado/count.svg" alt="View Count" />
+  </a>
+
 </div>
 
 
