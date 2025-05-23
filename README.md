@@ -10,6 +10,6 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexandreMilharado&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=AlexandreMilharado&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://profile-counter.glitch.me/AlexandreMilharado/count.svg)](https://profile-counter.glitch.me/AlexandreMilharado/)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
