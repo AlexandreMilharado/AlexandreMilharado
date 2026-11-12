@@ -1,24 +1,73 @@
+<p align="center">
+  <a href="https://alexandremilharado.github.io/Portfolio">
+    <picture>
+      <source media="(prefers-color-scheme: light)" srcset="./assets/header-light.svg" />
+      <img src="./assets/header.svg" width="100%" alt="Alexandre Milharado — Junior ML Engineer at LTPLabs, Lisbon" />
+    </picture>
+  </a>
+</p>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alexandre-milharado) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/28962279/grammar-programmer)
+<p align="center">
+  <a href="https://alexandremilharado.github.io/Portfolio"><img src="https://img.shields.io/badge/Portfolio-3fb950?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://linkedin.com/in/alexandre-milharado"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0yMC40NSAyMC40NWgtMy41NnYtNS41N2MwLTEuMzMtLjAyLTMuMDQtMS44NS0zLjA0LTEuODUgMC0yLjE0IDEuNDUtMi4xNCAyLjk0djUuNjdIOS4zNVY5aDMuNDF2MS41NmguMDVjLjQ4LS45IDEuNjQtMS44NSAzLjM3LTEuODUgMy42IDAgNC4yNyAyLjM3IDQuMjcgNS40NnY2LjI4ek01LjM0IDcuNDNhMi4wNiAyLjA2IDAgMSAxIDAtNC4xMyAyLjA2IDIuMDYgMCAwIDEgMCA0LjEzek03LjEyIDIwLjQ1SDMuNTZWOWgzLjU2djExLjQ1ek0yMi4yMiAwSDEuNzdDLjc5IDAgMCAuNzcgMCAxLjczdjIwLjU0QzAgMjMuMjMuNzkgMjQgMS43NyAyNGgyMC40NWMuOTggMCAxLjc4LS43NyAxLjc4LTEuNzNWMS43M0MyNCAuNzcgMjMuMiAwIDIyLjIyIDB6Ii8+PC9zdmc+" alt="LinkedIn" /></a>
+  <a href="https://stackoverflow.com/users/28962279/grammar-programmer"><img src="https://img.shields.io/badge/Stack_Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow" /></a>
+  <a href="https://www.credly.com/users/alexandre-milharado"><img src="https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white" alt="Credly" /></a>
+  <a href="mailto:alexandre.c.milharado@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Scala](https://img.shields.io/badge/scala-%23DC322F.svg?style=for-the-badge&logo=scala&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=AlexandreMilharado&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=AlexandreMilharado&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexandreMilharado&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+## 👋 About
+
+I'm a **Junior Machine Learning Engineer at [LTPLabs](https://www.ltplabs.com)** in Lisbon. I hold a BSc and an
+MSc in Computer Engineering from ISCTE, ranking in the top 5% of my class in both, and worked as a
+Teaching Assistant for Introduction to Programming and Concurrent & Parallel Programming. I work on computer
+vision and reinforcement learning, and I build the backend systems around them.
+
+## 🧪 Selected work
+
+<p align="center">
+  <a href="https://alexandremilharado.github.io/Portfolio"><picture>
+    <source media="(max-width: 600px) and (prefers-color-scheme: light)" srcset="./assets/cards/coloring-events-narrow-light.svg" />
+    <source media="(max-width: 600px)" srcset="./assets/cards/coloring-events-narrow.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/cards/coloring-events-light.svg" />
+    <img src="./assets/cards/coloring-events.svg" width="100%" alt="Coloring Events with Diffusion (code soon): fine-tunes Stable Video Diffusion to reconstruct colored video frames from event-camera data, using zero-shot and conditional generation. PyTorch, OpenCV." />
+  </picture></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/AlexandreMilharado/Autonomous-Navigation"><picture>
+    <source media="(prefers-color-scheme: light)" srcset="./assets/cards/autonomous-navigation-light.svg" />
+    <img src="./assets/cards/autonomous-navigation.svg" width="410" alt="Autonomous Navigation: robot agent that explores while avoiding obstacles and ledges, trained with genetic algorithms, PPO and RPPO. Gymnasium, Webots." />
+  </picture></a>
+  <a href="https://github.com/AlexandreMilharado/Spot-Discovery"><picture>
+    <source media="(prefers-color-scheme: light)" srcset="./assets/cards/spot-discovery-light.svg" />
+    <img src="./assets/cards/spot-discovery.svg" width="410" alt="Spot Discovery: TripAdvisor-style app with infinite scroll, live editing and token-based auth. Django, jQuery, REST." />
+  </picture></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/pafmoura/KJSON"><picture>
+    <source media="(prefers-color-scheme: light)" srcset="./assets/cards/kjson-light.svg" />
+    <img src="./assets/cards/kjson.svg" width="410" alt="KJSON (team project): annotation-driven Kotlin JSON serialization library built on reflection and custom visitors." />
+  </picture></a>
+  <a href="https://github.com/K3vinb5/Projeto_PISID_Grupo_12"><picture>
+    <source media="(prefers-color-scheme: light)" srcset="./assets/cards/mongo-mysql-streamer-light.svg" />
+    <img src="./assets/cards/mongo-mysql-streamer.svg" width="410" alt="Mongo to MySQL streamer (team project): real-time replication over MQTT with checkpointing and retry logic, so interruptions lose minimal data. Java, MongoDB, MySQL." />
+  </picture></a>
+</p>
+
+## 🛠️ Toolkit
+
+| | |
+|---|---|
+| **Languages** | <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" /> <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" /> <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="C#" /> <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C" /> <img src="https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white" alt="Scala" /> |
+| **ML / Data** | <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" /> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" /> <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras" /> <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="scikit-learn" /> <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" /> <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" /> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" /> |
+| **Backend & Web** | <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" /> <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS" /> <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" /> <img src="https://img.shields.io/badge/REST-6E7681?style=for-the-badge" alt="REST" /> <img src="https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="SCSS" /> |
+| **Databases** | <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" /> <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" alt="MariaDB" /> <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" /> |
+| **RL & Simulation** | <img src="https://img.shields.io/badge/Gymnasium-0081A5?style=for-the-badge" alt="Gymnasium" /> <img src="https://img.shields.io/badge/Webots-D0021B?style=for-the-badge" alt="Webots" /> |
+| **Tools** | <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" /> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" /> |
 
 ---
-<div>
 
-  <h3>👀 View Count</h3>
-
-  <a href="https://profile-counter.glitch.me/AlexandreMilharado/">
-    <img src="https://profile-counter.glitch.me/AlexandreMilharado/count.svg" alt="View Count" />
-  </a>
-
-</div>
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p align="center">
+  Always happy to talk computer vision, reinforcement learning, or ML systems — reach out via any link above.
+</p>

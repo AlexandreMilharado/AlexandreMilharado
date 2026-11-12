@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="480" height="300" viewBox="0 0 480 300" role="img" aria-labelledby="t d">
+  <title id="t">Mongo → MySQL streamer</title>
+  <desc id="d">Real-time MongoDB to MySQL replication over MQTT with checkpointing and retry logic.</desc>
+  <style>
+    text { font-family: 'JetBrains Mono', 'Fira Code', 'SFMono-Regular', Consolas, 'DejaVu Sans Mono', monospace; fill: #1f2328; white-space: pre; }
+    .path { fill: #6e7781; font-size: 13px; }
+    .title { fill: #1f2328; font-size: 18px; font-weight: 700; }
+    .arrow { fill: #1a7f37; font-size: 16px; font-weight: 700; }
+    .desc { fill: #59636e; font-size: 14px; }
+    .chip { fill: #0969da; font-size: 12px; }
+    .chipbg { fill: rgba(9,105,218,0.08); stroke: rgba(9,105,218,0.3); }
+    .badge { fill: #9a6700; font-size: 12px; }
+    .badgebg { fill: rgba(154,103,0,0.08); stroke: rgba(154,103,0,0.35); }
+    .code { font-size: 13px; }
+    .kw { fill: #cf222e; } .ty { fill: #953800; } .an { fill: #8250df; } .st { fill: #0a3069; } .dim { fill: #6e7781; } .ok { fill: #1a7f37; }
+    .card { animation: show 0.5s ease-out both; }
+    @keyframes show { from { opacity: 0; transform: translateY(6px); } to { opacity: 1; transform: none; } }
+    @media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
+  </style>
+<g class="card">
+  <rect x="1" y="1" width="478" height="298" rx="12" fill="#ffffff" stroke="#d0d7de"/>
+  <path d="M1 13 a12 12 0 0 1 12 -12 h454 a12 12 0 0 1 12 12 v25 h-478 z" fill="#f6f8fa"/>
+  <line x1="1" y1="38" x2="479" y2="38" stroke="#d0d7de"/>
+  <text x="240" y="25" text-anchor="middle" class="path">~/data/mongo-mysql-streamer</text>
+  <rect class="badgebg" x="358.4" y="10" width="105.6" height="20" rx="10"/>
+  <text x="411.2" y="24" text-anchor="middle" class="badge" textLength="87.6" lengthAdjust="spacingAndGlyphs">team project</text>
+  <rect x="20" y="56" width="440" height="96" rx="8" fill="#f6f8fa" stroke="#d0d7de"/>
+  <rect x="36" y="88" width="78.6" height="32" rx="6" fill="#f6f8fa" stroke="#d0d7de"/>
+  <text x="75.3" y="109" text-anchor="middle" class="code" textLength="54.6" lengthAdjust="spacingAndGlyphs">MongoDB</text>
+  <line x1="122.6" y1="104" x2="158.6" y2="104" stroke="#1a7f37" stroke-width="2" stroke-dasharray="4 4"/>
+  <path d="M158.6 99 l8 5 l-8 5 z" fill="#1a7f37"/>
+  <rect x="174.6" y="88" width="55.2" height="32" rx="6" fill="#f6f8fa" stroke="#d0d7de"/>
+  <text x="202.2" y="109" text-anchor="middle" class="code" textLength="31.2" lengthAdjust="spacingAndGlyphs">MQTT</text>
+  <line x1="237.8" y1="104" x2="273.8" y2="104" stroke="#1a7f37" stroke-width="2" stroke-dasharray="4 4"/>
+  <path d="M273.8 99 l8 5 l-8 5 z" fill="#1a7f37"/>
+  <rect x="289.8" y="88" width="63" height="32" rx="6" fill="#f6f8fa" stroke="#d0d7de"/>
+  <text x="321.3" y="109" text-anchor="middle" class="code" textLength="39" lengthAdjust="spacingAndGlyphs">MySQL</text>
+  <text x="366.8" y="109" class="code ok">✓ ckpt</text>
+  <text x="20" y="188" class="title">Mongo → MySQL streamer<tspan class="arrow"> ↗</tspan></text>
+  <text x="20" y="216" class="desc">Real-time replication over MQTT with</text>
+  <text x="20" y="237" class="desc">checkpointing and retries — minimal data loss.</text>
+  <rect class="chipbg" x="20" y="260" width="49.2" height="24" rx="12"/>
+  <text x="44.6" y="276" text-anchor="middle" class="chip" textLength="29.2" lengthAdjust="spacingAndGlyphs">Java</text>
+  <rect class="chipbg" x="77.2" y="260" width="71.1" height="24" rx="12"/>
+  <text x="112.75" y="276" text-anchor="middle" class="chip" textLength="51.1" lengthAdjust="spacingAndGlyphs">MongoDB</text>
+  <rect class="chipbg" x="156.3" y="260" width="56.5" height="24" rx="12"/>
+  <text x="184.55" y="276" text-anchor="middle" class="chip" textLength="36.5" lengthAdjust="spacingAndGlyphs">MySQL</text>
+  <rect class="chipbg" x="220.8" y="260" width="49.2" height="24" rx="12"/>
+  <text x="245.4" y="276" text-anchor="middle" class="chip" textLength="29.2" lengthAdjust="spacingAndGlyphs">MQTT</text>
+</g>
+</svg>

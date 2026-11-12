@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="480" height="300" viewBox="0 0 480 300" role="img" aria-labelledby="t d">
+  <title id="t">KJSON</title>
+  <desc id="d">Annotation-driven Kotlin JSON serialization library built on reflection and custom visitors.</desc>
+  <style>
+    text { font-family: 'JetBrains Mono', 'Fira Code', 'SFMono-Regular', Consolas, 'DejaVu Sans Mono', monospace; fill: #c9d1d9; white-space: pre; }
+    .path { fill: #6e7681; font-size: 13px; }
+    .title { fill: #e6edf3; font-size: 18px; font-weight: 700; }
+    .arrow { fill: #3fb950; font-size: 16px; font-weight: 700; }
+    .desc { fill: #8b949e; font-size: 14px; }
+    .chip { fill: #79c0ff; font-size: 12px; }
+    .chipbg { fill: rgba(56,139,253,0.12); stroke: rgba(56,139,253,0.35); }
+    .badge { fill: #d29922; font-size: 12px; }
+    .badgebg { fill: rgba(210,153,34,0.12); stroke: rgba(210,153,34,0.4); }
+    .code { font-size: 13px; }
+    .kw { fill: #ff7b72; } .ty { fill: #ffa657; } .an { fill: #d2a8ff; } .st { fill: #a5d6ff; } .dim { fill: #6e7681; } .ok { fill: #3fb950; }
+    .card { animation: show 0.5s ease-out both; }
+    @keyframes show { from { opacity: 0; transform: translateY(6px); } to { opacity: 1; transform: none; } }
+    @media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
+  </style>
+<g class="card">
+  <rect x="1" y="1" width="478" height="298" rx="12" fill="#0d1117" stroke="#30363d"/>
+  <path d="M1 13 a12 12 0 0 1 12 -12 h454 a12 12 0 0 1 12 12 v25 h-478 z" fill="#161b22"/>
+  <line x1="1" y1="38" x2="479" y2="38" stroke="#30363d"/>
+  <text x="240" y="25" text-anchor="middle" class="path">~/lib/kjson</text>
+  <rect class="badgebg" x="358.4" y="10" width="105.6" height="20" rx="10"/>
+  <text x="411.2" y="24" text-anchor="middle" class="badge" textLength="87.6" lengthAdjust="spacingAndGlyphs">team project</text>
+  <rect x="20" y="56" width="440" height="96" rx="8" fill="#010409" stroke="#30363d"/>
+  <text x="36" y="84" class="code"><tspan class="an">@JsonName</tspan><tspan>(</tspan><tspan class="st">"full_name"</tspan><tspan>)</tspan></text>
+  <text x="36" y="106" class="code"><tspan class="kw">val </tspan><tspan>name: </tspan><tspan class="ty">String</tspan></text>
+  <text x="36" y="134" class="code"><tspan class="dim">// → </tspan><tspan class="st">{"full_name": "Alexandre"}</tspan></text>
+  <text x="20" y="188" class="title">KJSON<tspan class="arrow"> ↗</tspan></text>
+  <text x="20" y="216" class="desc">Annotation-driven Kotlin JSON serialization</text>
+  <text x="20" y="237" class="desc">built on reflection and custom visitors.</text>
+  <rect class="chipbg" x="20" y="260" width="63.8" height="24" rx="12"/>
+  <text x="51.9" y="276" text-anchor="middle" class="chip" textLength="43.8" lengthAdjust="spacingAndGlyphs">Kotlin</text>
+  <rect class="chipbg" x="91.8" y="260" width="93" height="24" rx="12"/>
+  <text x="138.3" y="276" text-anchor="middle" class="chip" textLength="73" lengthAdjust="spacingAndGlyphs">Reflection</text>
+</g>
+</svg>
